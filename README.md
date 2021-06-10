@@ -11,7 +11,7 @@ STEP 3: Bring out the source code from folder.
 STEP 4: Start XAMPP/WampServer.
 STEP 5: Open your browser and go to phpMyAdmin.
 STEP 6: Run the SQL Scripts in the "Scripts.txt" file.
-STEP 7: Go to "http://localhost/FLORES_FINAL_ACTIVITY/".
+STEP 7: Go to "http://localhost/login.php/".
 STEP 8: Log in register and log in to access the page.
 
 FINISH!
